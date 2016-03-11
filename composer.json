@@ -1,0 +1,17 @@
+{
+    "name": "yoeori/oauth-test",
+    "description": "Small application to check if an OAuth endpoint works correctly.",
+    "version": "1.0.0",
+    "type": "project",
+    "require": {
+        "league/oauth2-client": "^1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoeri Otten",
+            "email": "yoeori@live.nl"
+        }
+    ],
+    "minimum-stability": "stable"
+}
